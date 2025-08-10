@@ -35,3 +35,11 @@ private => شخصی , خصوصی
 This is my private room. => این اتاق خصوصی من است.
 
 Please keep this information private => لطفاً این اطلاعات را محرمانه نگه دار.
+
+----------
+
+near => نزدیک , درکنار
+
+I live near the park. => من نزدیک پارک زندگی می‌کنم.
+
+The school is near my house. => مدرسه نزدیک خانه من است.
