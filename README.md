@@ -43,3 +43,12 @@ near => نزدیک , درکنار
 I live near the park. => من نزدیک پارک زندگی می‌کنم.
 
 The school is near my house. => مدرسه نزدیک خانه من است.
+
+
+----------
+
+official => رسمی , اداری
+
+This is the official website => این وب‌سایت رسمی است.
+
+He has an official meeting tomorrow => او فردا یک جلسه رسمی دارد.
