@@ -27,3 +27,11 @@ seat => صندلی , جای نشستن
 Please take a seat => لطفاً بنشینید.
 
 My seat is near the window. => صندلی من کنار پنجره است.
+
+----------
+
+private => شخصی , خصوصی
+
+This is my private room. => این اتاق خصوصی من است.
+
+Please keep this information private => لطفاً این اطلاعات را محرمانه نگه دار.
